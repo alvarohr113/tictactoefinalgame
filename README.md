@@ -22,6 +22,3 @@ Screenshot of your application running:
 - What obstacles did you overcome?
   
   One of the biggest obstacle that I had with this lab was make the .jar file with the backend and frontend divided. Then I had alot of problems trying to solve everything with the docker image and then in the terraform was not creating the EC2.
-- What did you help most in overcoming obstacles?
-  
-  I need to search everything in internet so I learned a lot about how to resolve everything alone. The teacher helped me to understand everything that I didn't have any sense for me.
