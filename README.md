@@ -8,7 +8,11 @@ The development environment was quite recent to me. So I had to learn everything
 
 It consists of an EC2 instance running a Terraform with 2 Docker images, one for the backend of the code and one for the frontend. 
 ## Preview
+Screenshots of configured AWS services: 
+![TicTacToe EC2 Instance](img/EC2_Instance.png)
 
+Screenshot of your application running:
+![TicTacToe Game Running ](Img/Running_Game.png)
 
 ## Reflections
 
